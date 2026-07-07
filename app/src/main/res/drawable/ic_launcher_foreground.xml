@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wing shape -->
+    <path
+        android:fillColor="#FFBB86FC"
+        android:pathData="M54,30 L30,50 Q25,55 30,60 L45,70 Q50,72 55,68 L70,55 Q75,50 70,45 L54,30Z" />
+    <!-- Staff -->
+    <path
+        android:fillColor="#FF00FF88"
+        android:pathData="M50,45 L50,85"
+        android:strokeWidth="3"
+        android:strokeColor="#FF00FF88" />
+    <!-- Circle head -->
+    <path
+        android:fillColor="#FFBB86FC"
+        android:pathData="M50,35 m-8,0 a8,8 0 1,1 16,0 a8,8 0 1,1 -16,0" />
+</vector>
